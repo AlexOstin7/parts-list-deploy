@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.6/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.6/angular-animate.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.6/angular-touch.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-grid/4.6.6/ui-grid.pinning.min.js"></script>
+    <link rel="styleSheet" href="/css/ui-grid.min.css"/>
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="shortcut icon" href="#" />
+    <script src="/js/grid/ui-grid.js"></script>
+    <script src="/js/grid/ui-bootstrap-tpls-0.13.4.js"></script>
+    <script src="/js/grid/ObjectPath.js"></script>
+    <script src="/js/grid/tv4.min.js"></script>
+    <script src="/js/grid/schema-form.js"></script>
+    <script src="/js/grid/bootstrap-decorator.js"></script>
+    <script src="/js/script.js"></script>
+    <meta charset="utf-8">
+
+</head>
+
+<body ng-app="parts-list">
+
+<div ng-controller="MainCtrl as vm"  align="center">
+<div style="width: 100%; height: 150px; overflow: auto;">
+    <alert ng-repeat="alert in alerts" dismiss-on-timeout="5000" type="{{alert.type}}" close="closeAlert()">{{alert.msg}}</alert>
+</div >
+    <p>Фильтр Необходимость
+        <select ng-model="filterTerm">
+            <option value="true">Да</option>
+            <option value="false">Нет</option>
+        </select>
+    </p>
+    <button ng-click="filterTerm = 'undefined'; searchTerm=''; vm.currentPageNumber=1; getCurrentPage();  ">Сброс</button>
+    <input type="button" value="Применить фильтр" ng-click=" searchTerm=''; vm.currentPageNumber=1; getCurrentPage()" >
+    <br>
+    <p>Поиск по наименованию детали
+    </p>
+    <input type="text" ng-model="searchTerm" >
+    <button ng-click="filterTerm = 'undefined'; vm.currentPageNumber=1; getCurrentPage()">Поиск</button>
+    <br>
+    <br/>
+    <ui-grid-pagination class="grid" id="serviceGrid" ui-grid="vm.serviceGrid">
+    </ui-grid-pagination>
+    <p>Можно собрать {{min}}</p>
+</div>
+
+</body>
+</html>
