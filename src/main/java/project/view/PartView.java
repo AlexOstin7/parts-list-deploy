@@ -1,9 +1,6 @@
 package project.view;
 
-//import io.swagger.annotations.ApiModelProperty;
-
 public class PartView {
-//    @ApiModelProperty(hidden = true)
     public long id;
 
     public String component;
