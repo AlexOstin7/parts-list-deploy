@@ -251,7 +251,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549211209259" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549211301527" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$APPLICATION_CONFIG_DIR$/jdbc-drivers/MySQL Connector/J/5.1.46/mysql-connector-java-5.1.46.jar" />
     <property name="project.structure.last.edited" value="Modules" />
