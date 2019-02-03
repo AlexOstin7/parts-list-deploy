@@ -251,7 +251,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549211501014" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549211807833" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$APPLICATION_CONFIG_DIR$/jdbc-drivers/MySQL Connector/J/5.1.46/mysql-connector-java-5.1.46.jar" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -433,7 +433,7 @@
       <workItem from="1549050925714" duration="3893000" />
       <workItem from="1549097820542" duration="1235000" />
       <workItem from="1549129362382" duration="607000" />
-      <workItem from="1549198603526" duration="8192000" />
+      <workItem from="1549198603526" duration="8508000" />
     </task>
     <task id="LOCAL-00001" summary="before push">
       <created>1548699102967</created>
@@ -505,11 +505,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549211329620</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Deploy">
+      <created>1549211653951</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1549211653951</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24825000" />
+    <option name="totallyTimeSpent" value="25141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1282" height="997" extended-state="6" />
