@@ -7,10 +7,14 @@
   </component>
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="206ab3e9-cadd-4cdb-8ad6-ea9954d73e3b" name="Default" comment="heroku add workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/parts-list-deploy-0.0.1-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/parts-list-deploy-0.0.1-SNAPSHOT.war" afterDir="false" />
     </list>
+=======
+    <list default="true" id="206ab3e9-cadd-4cdb-8ad6-ea9954d73e3b" name="Default" comment="heroku add workspace.xml" />
+>>>>>>> 0578c40... again .idea/workspace.[ml add
 =======
     <list default="true" id="206ab3e9-cadd-4cdb-8ad6-ea9954d73e3b" name="Default" comment="heroku add workspace.xml" />
 >>>>>>> 0578c40... again .idea/workspace.[ml add
@@ -68,8 +72,13 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="240">
               <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+=======
+            <state relative-caret-position="132">
+              <caret line="61" column="53" selection-start-line="61" selection-start-column="53" selection-end-line="61" selection-end-column="53" />
+>>>>>>> 0578c40... again .idea/workspace.[ml add
 =======
             <state relative-caret-position="132">
               <caret line="61" column="53" selection-start-line="61" selection-start-column="53" selection-end-line="61" selection-end-column="53" />
@@ -155,6 +164,11 @@
     </navigator>
     <panes>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+>>>>>>> 0578c40... again .idea/workspace.[ml add
 =======
       <pane id="Scope" />
       <pane id="PackagesPane" />
@@ -362,6 +376,9 @@
       <workItem from="1549097820542" duration="1235000" />
       <workItem from="1549129362382" duration="607000" />
       <workItem from="1549180222165" duration="598000" />
+<<<<<<< HEAD
+>>>>>>> 0578c40... again .idea/workspace.[ml add
+=======
 >>>>>>> 0578c40... again .idea/workspace.[ml add
     </task>
     <task id="LOCAL-00001" summary="before push">
@@ -397,7 +414,11 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="9118000" />
+=======
+    <option name="totallyTimeSpent" value="16868000" />
+>>>>>>> 0578c40... again .idea/workspace.[ml add
 =======
     <option name="totallyTimeSpent" value="16868000" />
 >>>>>>> 0578c40... again .idea/workspace.[ml add
@@ -406,7 +427,11 @@
     <frame x="-1" y="0" width="1282" height="997" extended-state="6" />
     <layout>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26661265" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28606158" />
+>>>>>>> 0578c40... again .idea/workspace.[ml add
 =======
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28606158" />
 >>>>>>> 0578c40... again .idea/workspace.[ml add
@@ -553,8 +578,13 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="240">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+=======
+        <state relative-caret-position="132">
+          <caret line="61" column="53" selection-start-line="61" selection-start-column="53" selection-end-line="61" selection-end-column="53" />
+>>>>>>> 0578c40... again .idea/workspace.[ml add
 =======
         <state relative-caret-position="132">
           <caret line="61" column="53" selection-start-line="61" selection-start-column="53" selection-end-line="61" selection-end-column="53" />
