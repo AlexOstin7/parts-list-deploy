@@ -14,16 +14,17 @@
           <element id="module-output" name="parts-list-deploy" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-data-jpa:1.5.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-actuator:1.5.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter:1.5.4.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:1.5.4.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.5.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-logging:1.5.4.RELEASE" />
           <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.1.11" />
           <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.1.11" />
           <element id="library" level="project" name="Maven: org.slf4j:jul-to-slf4j:1.7.25" />
           <element id="library" level="project" name="Maven: org.slf4j:log4j-over-slf4j:1.7.25" />
           <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.17" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-actuator:1.5.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-data-jpa:1.5.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-aop:1.5.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.9.RELEASE" />
           <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.10" />
@@ -44,7 +45,6 @@
           <element id="library" level="project" name="Maven: org.springframework.data:spring-data-jpa:1.11.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.data:spring-data-commons:1.13.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-orm:4.3.9.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.9.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.3.9.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.9.RELEASE" />
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
@@ -63,6 +63,10 @@
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.42" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.9.RELEASE" />
           <element id="library" level="project" name="Maven: com.google.collections:google-collections:1.0" />
+          <element id="library" level="project" name="Maven: org.webjars:bootstrap:${webjars-bootstrap.version}" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-devtools:1.5.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:1.5.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.5.4.RELEASE" />
         </element>
       </element>
       <element id="directory" name="META-INF">
